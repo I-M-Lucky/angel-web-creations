@@ -5,8 +5,8 @@ Deploy: upload this folder to Vercel (or any static host). Domain used everywher
 ## Settings (top of the <script> in index.html)
 - CH = 2.6           scroll length of each hero chapter (bigger = slower story)
 - MIN_STAY = 2000    each hero chapter's text stays on screen at least this many ms
-- WHATSAPP           the contact form opens a WhatsApp chat with this number (currently 919643388118)
-- EMAIL              "Or send by email" opens the visitor's mail app to this address (currently showmeyouripfastfast@gmail.com)
+- WHATSAPP           the contact form opens a WhatsApp chat with this number. Kept out of the page text (split in the code so it is not shown or easy to scrape).
+- EMAIL              "Or send by email" opens the visitor's mail app to this address. Also kept out of the page text.
 
 ## Fonts
 fonts/primary.woff   "Angel Bandit Demo" - a DEMO font: digits and punctuation are watermarks, so it is limited to letters
