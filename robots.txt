@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://angel-web-creations.vercel.app/sitemap.xml
